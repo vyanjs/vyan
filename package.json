@@ -27,7 +27,7 @@
         "url": "git+https://github.com/vyanjs/vyan.git"
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "echo \"No test specified\"",
         "build": "rollup -c"
     },
     "devDependencies": {
